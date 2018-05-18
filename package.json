@@ -5,9 +5,8 @@
   "main": "app.js",
   "scripts"" {
     "start": "node app.js"
-    },
+  },
     "dependecies": {
       "discord.js": "11.1.0",
-      "request": "2.81.0"
       }
 }
