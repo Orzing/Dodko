@@ -1,12 +1,11 @@
 {
-  "name": "Dodko",
-  "description": "",
+  "name": "chat_service",
   "version": "1.0.0",
+  "description": "A simple Bot",
   "main": "app.js",
-  "scripts"" {
-    "start": "node app.js"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-    "dependecies": {
-      "discord.js": "11.1.0",
-      }
+  "author": "",
+  "license": "ISC"
 }
