@@ -8,7 +8,6 @@ const ms = require("ms");
 const client = new Discord.Client();
 
 // Here we load the config.json file that contains our token and our prefix values.
-const config = require("./config.json");
 // config.token contains the bot's token
 // config.prefix contains the message prefix.
 
@@ -247,4 +246,4 @@ if(command === "suggest") {
     }
 });
 
-client.login(config.token);
+client.login(NDM5MzYwMTMwMTExMjQyMjQw.DeABXg.l_TlTX_UTUsVaQ2TFhkxI25Cf5M);
