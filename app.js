@@ -247,4 +247,4 @@ if(command === "suggest") {
     }
 });
 
-client.login(config.token);
+client.login(bot.token);
